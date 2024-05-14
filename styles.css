@@ -1,0 +1,22 @@
+
+
+h1 {
+    color: brown;
+    line-height: 0ch;
+    font: 1em sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: brown;
+    line-height: 0ch;
+    font: 1em sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div span nav {
+    background-color: lavender;
+    font-style: italic;
+    direction: rtl;
+    
+}
